@@ -1,3 +1,3 @@
 Adventure-Game
 ==============
-A single-page adventure game.
+A single-page adventure game. Enjoy!
